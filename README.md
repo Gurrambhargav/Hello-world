@@ -1,3 +1,3 @@
 # Hello-world
 Assignment git checkup
-Hi This is Bhargav Gurram pursing my masters in computer Science at Saint Louis University 
+Hi This is Bhargav Gurram pursuing my masters in Computer Science at Saint Louis University 
